@@ -1,7 +1,7 @@
 # BasicPyrogramBot
 Basic Template for Bot with Pyrogram and Python. This Template is For Beginners like me ;) 
 
-### ![MissLivvyBot](https://telegra.ph/file/62481e4230d8a5c438840.jpg)
+### ![MissLivvyBot](https://telegra.ph/file/963bce66776c0d97be950.jpg)
 
 **This Bot Can Be Deployed to Heorku and Railway easily. **
 
