@@ -1,0 +1,20 @@
+{
+  "name": "Simple Pyrogram Bot",
+  "logo": "https://telegra.ph/file/963bce66776c0d97be950.jpg",
+  "description": "Basic Pyrogram Bot by exploiterxD.",
+  "repository": "https://github.com/exploiterxD/BasicPyrogramBot'",
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Bot Token, Get It From @BotFather.",
+      "value": ""
+    },
+    "API_ID": {
+      "description": "Api ID get it from my.telegram.org.",
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "Api Hash get it from my.telegram.org.",
+      "value": ""
+    }
+  }
+}
