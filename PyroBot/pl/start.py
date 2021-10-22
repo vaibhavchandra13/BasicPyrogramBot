@@ -14,7 +14,7 @@ MESSAGE = (
 
 KEYBOARD = InlineKeyboardMarkup(
     [[InlineKeyboardButton(text='Github', url='github.com/exploiterxD')],
-    [InlineKeyboardButton(text='Source Code', url='github.com/exploiterxD/BasicPyroBot')]]
+    [InlineKeyboardButton(text='Source Code', url='github.com/exploiterxD/BasicPyrogramBot')]]
 )
 
 @excmd.on_message(filters.text & filters.private & ~filters.bot)
