@@ -8,13 +8,13 @@ from PyroBot import excmd
 
 MESSAGE = (
         'Hello there!\n'
-        'I am a Simple Bot Build with Pyrogram and Python\n\n'
+        'I am a Simple CC Checker Bot Build with Pyrogram and Python\n\n'
         'By [exploiterxD](https://github.com/exploiterxD)'
     )
 
 KEYBOARD = InlineKeyboardMarkup(
     [[InlineKeyboardButton(text='Github', url='github.com/exploiterxD')],
-    [InlineKeyboardButton(text='Source Code', url='github.com/exploiterxD/BasicPyrogramBot')]]
+    [InlineKeyboardButton(text='Source Code', url='t.me/vaibhavchandra')]]
 )
 
 @excmd.on_message(filters.text & filters.private & ~filters.bot)
